@@ -11,3 +11,9 @@ C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\DemoApp01.P
 C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\DemoApp01.csproj.GenerateResource.Cache
 C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\DemoApp01.exe
 C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\DemoApp01.pdb
+C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\ListTeams.baml
+C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\Registration.baml
+C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\UploadTeam.baml
+C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\ListTeams.g.cs
+C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\Registration.g.cs
+C:\Users\Eaivpc\Desktop\WPFApplication\DemoApp01\DemoApp01\obj\Debug\UploadTeam.g.cs

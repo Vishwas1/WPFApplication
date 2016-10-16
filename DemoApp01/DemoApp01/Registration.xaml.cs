@@ -16,23 +16,13 @@ using System.Windows.Shapes;
 namespace DemoApp01
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Registration.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Registration : Page
     {
-        public MainWindow()
+        public Registration()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            PagesContainer.Content = new Registration();
-        }
-
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-            PagesContainer.Content = new UploadTeamPage();
         }
     }
 }
