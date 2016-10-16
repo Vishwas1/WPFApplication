@@ -1,8 +1,22 @@
 ﻿<Window x:Class="DemoApp01.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+        Title="DemoApp2016" Height="350" Width="525" WindowState="Maximized">
+    <DockPanel LastChildFill="False" Margin="0,0,0,-1.2">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Background="Gold" Height="70">
+            <TextBlock TextWrapping="Wrap" HorizontalAlignment="Left" Text="DEMO APPLICATION 1.0" Margin="10,19,0,0.4" Width="413" FontFamily="Rockwell Extra Bold" FontSize="24"/>
+        </StackPanel>
+
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" Background="#FFB3FAFA" Margin="0,0,-0.6,0" Height="30">
+            <Label  Content="DemoApp2016 : Version 1.0"  HorizontalContentAlignment="Center" Margin="0,0,0,0.4" Background="White" Width="250" FontWeight="Bold" FontSize="11"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Left" Background="Bisque" Margin="0,-0.2,0,0" Width="250">
+            <Button Content="Button" Height="60" Margin="0,0,-0.4,0"/>
+            <Button Content="Button" Height="60" Margin="0,0,-0.4,0"/>
+        </StackPanel>
+    </DockPanel>
+    <!--<Grid>
+
+    </Grid>-->
+    
 </Window>
